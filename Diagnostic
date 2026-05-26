@@ -1,1 +1,50 @@
+1.) Given: A = reshape(1:16,4,4)
+Which command returns the last row of A?
 
+A. A(end,:)
+B. A(:,end)
+C. A(4)
+D. A(:)
+
+Answer: A, confidence 7/10
+
+
+
+2.) Which expression counts how many values in vector x are greater than 10?
+
+A. sum(x > 10)
+B. numel(x > 10)
+C. length(x > 10)
+D. find(x > 10)
+
+Answer: D, confidence 4/10
+
+
+
+3.) Which command correctly plots y versus x?
+
+A. plot(y,x)
+B. graph(x,y)
+C. plot(x,y)
+D. draw(x,y)
+
+Answer: A, confidence 4/10
+
+
+
+4.) Which syntax accesses the contents inside the first cell of cell array C?
+
+A. C(1)
+B. C{1}
+C. C[1]
+D. C.first
+
+Answer: 
+
+
+5.) Which function returns the average value of vector v?
+
+A. avg(v)
+B. sum(v)
+C. mean(v)
+D. median(v)
